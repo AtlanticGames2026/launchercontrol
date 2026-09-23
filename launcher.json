@@ -1,0 +1,8 @@
+{
+  "game_version": "1.0.0",
+  "gta_zip_url": "https://example.com/gta.zip",
+  "update_version": "1",
+  "update_zip_url": "https://example.com/update.zip",
+  "server_host": "127.0.0.1",
+  "server_port": 7777
+}
