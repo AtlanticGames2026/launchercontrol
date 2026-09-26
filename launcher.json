@@ -1,8 +1,54 @@
 {
   "game_version": "1.0.0",
-  "gta_zip_url": "https://download939.mediafire.com/y9yf03xttbcgWAii3wVrLkFtVH2G1FTz25wtFO_s5g9hAh2meMo2QPrQud9e6VVsNvFdLqwJPcKJGOLr0sOJvwEi5qF6hLQNr3ZuN1d-6Rc9ob0QQqTgcKIdn6vU5XdQHWejyizdRXpVizFIbvloL_cr7wLzG-3_oOH8LDtq7tzKaA/te2d5fwh2ppvqfr/Atlantic+Game+V1.zip",
+  "gta_zip_url": "https://example.com/gta.zip",
   "update_version": "1",
   "update_zip_url": "https://example.com/update.zip",
   "server_host": "141.95.31.250",
-  "server_port": 7777
+  "server_port": 7777,
+
+  "forum_url": "",
+  "website_url": "https://example.com",
+  "cabinet_url": "https://example.com/cabinet",
+  "facebook_url": "https://facebook.com/yourpage",
+  "tiktok_url": "https://tiktok.com/@yourpage",
+  "discord_url": "https://discord.gg/yourinvite",
+  "youtube_url": "https://youtube.com/@yourchannel",
+
+  "news": [
+    {
+      "id": "news-2026-09-26-01",
+      "title": "სერვერის განახლება",
+      "description": "Atlantic Role Play-ის სერვერზე დაემატა ახალი სისტემები და გაუმჯობესებები.",
+      "date": "26 სექტემბერი, 2026",
+      "type": "update"
+    },
+    {
+      "id": "news-2026-09-25-02",
+      "title": "ახალი სისტემები ქალაქში",
+      "description": "სერვერზე დაემატა ახალი შესაძლებლობები და სხვადასხვა სისტემური განახლება.",
+      "date": "25 სექტემბერი, 2026",
+      "type": "announcement"
+    },
+    {
+      "id": "news-2026-09-24-03",
+      "title": "ზამთრის ღონისძიებები იწყება",
+      "description": "მოემზადეთ სპეციალური ღონისძიებებისა და უნიკალური ჯილდოებისთვის.",
+      "date": "24 სექტემბერი, 2026",
+      "type": "event"
+    },
+    {
+      "id": "news-2026-09-23-04",
+      "title": "ტექნიკური სამუშაოები",
+      "description": "დაგეგმილია ტექნიკური სამუშაოები სერვერის სტაბილურობის გასაუმჯობესებლად.",
+      "date": "23 სექტემბერი, 2026",
+      "type": "maintenance"
+    },
+    {
+      "id": "news-2026-09-22-05",
+      "title": "ახალი შესაძლებლობები",
+      "description": "ქალაქში დამატებულია ახალი აქტივობები და სხვა მნიშვნელოვანი ცვლილებები.",
+      "date": "22 სექტემბერი, 2026",
+      "type": "community"
+    }
+  ]
 }
