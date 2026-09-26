@@ -6,7 +6,7 @@
   "update_version": "1",
   "update_zip_url": "https://example.com/update.zip",
   "server_host": "141.95.31.250",
-  "server_port": 7777,
+  "server_port": 7777, 
 
   "forum_url": "",
   "website_url": "https://example.com",
