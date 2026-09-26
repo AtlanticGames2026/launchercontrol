@@ -1,4 +1,6 @@
 {
+  "launcher_version": 1,
+  "launcher_download_url": "https://example.com/AtlanticLauncherSetup.exe",
   "game_version": "1.0.0",
   "gta_zip_url": "https://example.com/gta.zip",
   "update_version": "1",
