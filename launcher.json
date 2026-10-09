@@ -6,8 +6,7 @@
   "update_version": "1",
   "update_zip_url": "https://example.com/update.zip",
   "server_host": "141.95.31.250",
-  "server_port": 7777, 
-
+  "server_port": 7777,
   "forum_url": "",
   "website_url": "https://example.com",
   "cabinet_url": "https://example.com/cabinet",
@@ -15,7 +14,6 @@
   "tiktok_url": "https://tiktok.com/@yourpage",
   "discord_url": "https://discord.gg/yourinvite",
   "youtube_url": "https://youtube.com/@yourchannel",
-
   "news": [
     {
       "id": "news-2026-09-26-01",
@@ -52,5 +50,14 @@
       "date": "22 სექტემბერი, 2026",
       "type": "community"
     }
-  ]
+  ],
+  "discord_presence": {
+    "enabled": true,
+    "application_id": "",
+    "details": "Atlantic Role Play",
+    "large_image": "atlantic_logo",
+    "large_text": "Atlantic Role Play",
+    "launcher_text": "ლაუნჩერი გახსნილია",
+    "playing_text": "თამაშობს Atlantic Role Play-ზე"
+  }
 }
