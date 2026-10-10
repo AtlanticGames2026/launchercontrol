@@ -3,12 +3,12 @@
   "enabled": false,
   "news": [
     {
-      "id": "news-2026-09-26-01",
+      "id": "10 ოქტომბერი",
       "title": "სერვერის განახლება",
-      "description": "Atlantic Role Play-ის სერვერზე დაემატა ახალი სისტემები და გაუმჯობესებები.",
-      "date": "26 სექტემბერი, 2026",
+      "description": "სერვერზე დაემატა ახალი განახლება V 1.0.0",
+      "date": "10 სექტემბერი, 2026",
       "type": "update",
-      "enabled": false,
+      "enabled": true,
       "link": "",
       "image_url": ""
     },
