@@ -6,7 +6,7 @@
   "gta_zip_url": "https://download856.mediafire.com/hctgykyitc0gLCFZ8mJXCSgQFsFZp8R0dDV9HGo66Tkoh8r0Qr38G6Gx7ZgVY_dtbmcmay4OZT0GzLRnyISlRB9J6CTSruxGA9hE8xqP5LO_YXK_qjQcKe2rGvMkpg8ORy6m3XostqFSxcaaP4219S_wWfFM0COlLkbm1KJCnuJ2lg/1i2ckdkmlbracyi/arpgta.zip",
   "gta_sha256": "",
   "gta_included_updates": {
-    "update_1": "0",
+    "update_1": "1",
     "update_2": "0",
     "update_3": "0",
     "update_4": "0",
@@ -22,9 +22,9 @@
   "updates": [
     {
       "id": "update_1",
-      "enabled": false,
+      "enabled": true,
       "version": "1",
-      "zip_url": "https://example.com/update_1_v1.zip",
+      "zip_url": "https://download1650.mediafire.com/qbv6vdyp8xigzjk3P8pTTfTZa2KI-g2N8S-m9sPYfE-POdaVmBq13WcAZx9uV1LZgenSaTorv4upUOguEvFbC58xvgo3EjFA8JRDl6agegm3CwtF-39aNTLpxaW8St__yJKmDuBz4jiVSmvr5H6tXc2cXs8nzoJmL_vP2Al-JFJw_A/cgiw61x3l0b3d5u/update.zip",
       "sha256": ""
     },
     {
