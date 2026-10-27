@@ -1,67 +1,3 @@
-{
-  "schema_version": 2,
-  "launcher_version": 2,
-  "launcher_download_url": "https://example.com/AtlanticLauncherSetup.exe",
-  "game_version": "2.0.0",
-  "gta_zip_url": "https://arp-official.com/cdn_link.php?f=arp-gta.zip",
-  "gta_sha256": "",
-  "gta_included_updates": {
-    "update_1": "1",
-    "update_2": "0",
-    "update_3": "0",
-    "update_4": "0",
-    "update_5": "0",
-    "update_6": "0",
-    "update_7": "0",
-    "update_8": "0",
-    "update_9": "0",
-    "update_10": "0"
-  },
-  "updates_required": true,
-  "updates_mode": "cumulative",
-  "updates": [
-    {
-      "id": "update_1",
-      "enabled": true,
-      "version": "5",
-      "zip_url": "https://arp-official.com/cdn_link.php?f=update.zip",
-      "sha256": ""
-    },
-    {
-      "id": "update_2",
-      "enabled": false,
-      "version": "1",
-      "zip_url": "https://example.com/update_2_v1.zip",
-      "sha256": ""
-    },
-    {
-      "id": "update_3",
-      "enabled": false,
-      "version": "1",
-      "zip_url": "https://example.com/update_3_v1.zip",
-      "sha256": ""
-    },
-    {
-      "id": "update_4",
-      "enabled": false,
-      "version": "1",
-      "zip_url": "https://example.com/update_4_v1.zip",
-      "sha256": ""
-    },
-    {
-      "id": "update_5",
-      "enabled": false,
-      "version": "1",
-      "zip_url": "https://example.com/update_5_v1.zip",
-      "sha256": ""
-    },
-    {
-      "id": "update_6",
-      "enabled": false,
-      "version": "1",
-      "zip_url": "https://example.com/update_6_v1.zip",
-      "sha256": ""
-    },
     {
       "id": "update_7",
       "enabled": false,
@@ -89,6 +25,30 @@
       "version": "1",
       "zip_url": "https://example.com/update_10_v1.zip",
       "sha256": ""
+    }
+  ],
+  "critical_files_required": true,
+  "file_updates": [
+    {
+      "name": "atlantic.asi",
+      "enabled": true,
+      "url": "PASTE_HTTPS_CDN_URL_HERE",
+      "sha256": "25A2370FCE2C4E6EBFE7A24D7FF6F1A8996F5E5629EEB051D4073BE21B13E03D",
+      "size": 0
+    },
+    {
+      "name": "ARP_Audio.asi",
+      "enabled": true,
+      "url": "PASTE_HTTPS_CDN_URL_HERE",
+      "sha256": "987646AFD32EFD172EF80003F8F11057B0C703A5E8F6B10B77AC1C0CE895CD61",
+      "size": 0
+    },
+    {
+      "name": "sampvoice.asi",
+      "enabled": true,
+      "url": "PASTE_HTTPS_CDN_URL_HERE",
+      "sha256": "E0BE7A76842C297F7FD893CE9B0030CC6B1017882F9644837354DE1EB887BE60",
+      "size": 0
     }
   ]
 }
