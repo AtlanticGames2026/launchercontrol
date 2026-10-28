@@ -6,7 +6,7 @@
   "gta_zip_url": "https://arp-official.com/cdn_link.php?f=GTA.zip",
   "gta_sha256": "",
   "gta_included_updates": {
-    "update_1": "0",
+    "update_1": "1",
     "update_2": "0",
     "update_3": "0",
     "update_4": "0",
@@ -22,10 +22,10 @@
   "updates": [
     {
       "id": "update_1",
-      "enabled": false,
+      "enabled": true,
       "version": "1",
       "zip_url": "https://arp-official.com/cdn_link.php?f=update.zip",
-      "sha256": ""
+      "sha256": "0bdb03bfeee767c2a0f4fe0ef3e854cf2a66aee48b5edc91ba8a182555f75492"
     },
     {
       "id": "update_2",
@@ -102,9 +102,9 @@
     },
     {
       "name": "ARP_Audio.asi",
-      "enabled": false,
-      "url": "",
-      "sha256": "",
+      "enabled": true,
+      "url": "https://arp-official.com/cdn_link.php?f=ARP_Audio.asi",
+      "sha256": "7097889dea54676d4ba13374fda3da44f474ef2a3c0cad50621fefa7438fcd48",
       "size": 0
     },
     {
