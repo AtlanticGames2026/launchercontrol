@@ -109,9 +109,9 @@
     },
     {
       "name": "sampvoice.asi",
-      "enabled": false,
-      "url": "",
-      "sha256": "",
+      "enabled": true,
+      "url": "https://arp-official.com/cdn_link.php?f=sampvoice.asi",
+      "sha256": "178A1ECEA8459CD988C1591F8356658589DB69AB79BE1986538237C234CC8EAC",
       "size": 0
     }
   ],
