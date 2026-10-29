@@ -23,9 +23,9 @@
     {
       "id": "update_1",
       "enabled": true,
-      "version": "1",
+      "version": "2",
       "zip_url": "https://arp-official.com/cdn_link.php?f=update.zip",
-      "sha256": "0bdb03bfeee767c2a0f4fe0ef3e854cf2a66aee48b5edc91ba8a182555f75492"
+      "sha256": ""
     },
     {
       "id": "update_2",
