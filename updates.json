@@ -97,21 +97,21 @@
       "name": "atlantic.asi",
       "enabled": true,
       "url": "https://arp-official.com/cdn_link.php?f=atlantic.asi",
-      "sha256": "2A4D77C727C0ACC4C13B9315CE410194F567C758CA80F0019DB0C0C422713922",
+      "sha256": "7CDB2F8B9D4269ECDC884D271AD7B0988F670D8A3EA2720383664F6F5484B0D0",
       "size": 0
     },
     {
       "name": "ARP_Audio.asi",
       "enabled": true,
       "url": "https://arp-official.com/cdn_link.php?f=ARP_Audio.asi",
-      "sha256": "7097889dea54676d4ba13374fda3da44f474ef2a3c0cad50621fefa7438fcd48",
+      "sha256": "8BB761195BFFC3930F8C699B93B7D2ECEAADEB19234CD4414D63DF21582848F7",
       "size": 0
     },
     {
       "name": "sampvoice.asi",
       "enabled": true,
       "url": "https://arp-official.com/cdn_link.php?f=sampvoice.asi",
-      "sha256": "4433D90E1FCE1DB5645DC119D1785F6A7C32CEA66E53E5791F8FEED31EFBD49E",
+      "sha256": "1512B46EB0AA7C26DB62C814C4C4F9BAABC7FF1FF0F234DF580F7753E3918542",
       "size": 0
     }
   ],
