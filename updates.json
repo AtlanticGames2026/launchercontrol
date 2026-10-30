@@ -7,7 +7,7 @@
   "gta_sha256": "",
   "gta_included_updates": {
     "update_1": "1",
-    "update_2": "0",
+    "update_2": "1",
     "update_3": "0",
     "update_4": "0",
     "update_5": "0",
@@ -29,9 +29,9 @@
     },
     {
       "id": "update_2",
-      "enabled": false,
+      "enabled": true,
       "version": "1",
-      "zip_url": "https://example.com/update_2_v1.zip",
+      "zip_url": "https://arp-official.com/cdn_link.php?f=update_2.zip",
       "sha256": ""
     },
     {
@@ -97,7 +97,7 @@
       "name": "atlantic.asi",
       "enabled": true,
       "url": "https://arp-official.com/cdn_link.php?f=atlantic.asi",
-      "sha256": "BB10BC3713518149ABC70B6F68F12CB64BE3F6226656D1BC137AAFCD007329F4",
+      "sha256": "AAB2A0764E217262EA4FB1E07F9FD76EF508F792AFEEE4A22040A5A1E79EB8FE",
       "size": 0
     },
     {
