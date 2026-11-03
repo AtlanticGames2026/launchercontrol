@@ -23,8 +23,8 @@
     {
       "id": "update_1",
       "enabled": true,
-      "version": "2",
-      "zip_url": "https://arp-official.com/cdn_link.php?f=update.zip",
+      "version": "3",
+      "zip_url": "https://arp-official.com/cdn_link.php?f=update_5.zip",
       "sha256": ""
     },
     {
@@ -97,7 +97,7 @@
       "name": "atlantic.asi",
       "enabled": true,
       "url": "https://arp-official.com/cdn_link.php?f=atlantic.asi",
-      "sha256": "7CDB2F8B9D4269ECDC884D271AD7B0988F670D8A3EA2720383664F6F5484B0D0",
+      "sha256": "18BD9626E2A82EFA890DD3EFC176FFC997A996C0EE97A71C40663B19B2E19AC9",
       "size": 0
     },
     {
