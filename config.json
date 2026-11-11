@@ -1,6 +1,34 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "enabled": true,
+  "disabled_message": "ჩამოტვირთეთ ლაუნჩერის ახალი ვერსია ოფიციალური საიტიდან.",
+  "launcher_version": "3.2.0",
+  "launcher_download_url": "https://arp-official.com/index.php?download=1",
+  "files_json_url": "https://arp-official.com/CONFIG/files.json",
+  "cdn": {
+    "base_url": "https://arp-official.com",
+    "launcher_key": ""
+  },
+  "server_name": "Atlantic Role Play",
+  "server_host": "141.95.31.250",
+  "server_port": 7777,
+  "drivers_download_url": "",
+  "forum_url": "https://arp-official.com/forum.php",
+  "website_url": "https://arp-official.com",
+  "cabinet_url": "https://arp-official.com/cabinet.php",
+  "facebook_url": "",
+  "tiktok_url": "",
+  "discord_url": "https://discord.gg/YtNNFBvd3S",
+  "youtube_url": "https://www.youtube.com/@Atlantic-SAMP",
+  "discord_presence": {
+    "enabled": true,
+    "application_id": "",
+    "details": "Atlantic Role Play",
+    "large_image": "atlantic_logo",
+    "large_text": "Atlantic Role Play",
+    "launcher_text": "ლაუნჩერი გახსნილია",
+    "playing_text": "თამაშობს Atlantic Role Play-ზე"
+  },
   "news": [
     {
       "id": "27 ოქტომბერი",
