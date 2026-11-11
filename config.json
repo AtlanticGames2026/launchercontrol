@@ -3,15 +3,8 @@
   "schema_version": 3,
   "enabled": true,
   "disabled_message": "ჩამოტვირთეთ ლაუნჩერის ახალი ვერსია ოფიციალური საიტიდან.",
-  "launcher_version": "4.0.0",
+  "launcher_version": "4.0.1",
   "launcher_download_url": "https://arp-official.com/index.php?download=1",
-  "launcher_update": {
-    "enabled": true,
-    "version": "4.0.0",
-    "zip_url": "https://github.com/AtlanticGames2026/launchercontrol/raw/refs/heads/main/NEWLAUNCHER.zip",
-    "sha256": "1DA12F5E891104A872C5F8CABD5A8CD384178D08F242D29D98B44A5A1C3CFA6B",
-    "size_bytes": 0
-  },
   "files_json_url": "https://arp-official.com/CONFIG/files.json",
   "cdn": {
     "base_url": "https://arp-official.com",
