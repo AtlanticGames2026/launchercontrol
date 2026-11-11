@@ -6,7 +6,7 @@
   "launcher_version": "4.0.0",
   "launcher_download_url": "https://arp-official.com/index.php?download=1",
   "launcher_update": {
-    "enabled": false,
+    "enabled": true,
     "version": "4.0.0",
     "zip_url": "https://github.com/AtlanticGames2026/launchercontrol/raw/refs/heads/main/NEWLAUNCHER.zip",
     "sha256": "",
