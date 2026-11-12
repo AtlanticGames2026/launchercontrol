@@ -3,7 +3,7 @@
   "schema_version": 3,
   "enabled": true,
   "disabled_message": "ჩამოტვირთეთ ლაუნჩერის ახალი ვერსია ოფიციალური საიტიდან.",
-  "launcher_version": "9.0.0",
+  "launcher_version": "1.0.0",
   "launcher_download_url": "https://arp-official.com/index.php?download=1",
   "files_json_url": "https://arp-official.com/CONFIG/files.json",
   "cdn": {
